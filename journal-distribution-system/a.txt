@@ -1,0 +1,9 @@
+Journal j2 b 12 10.0
+Individual emma e
+Journal j1 a 6 10.0
+Individual john j
+Journal e e 12 10.0
+Journal J4 d 3 10.0
+Corporation c c
+Journal j3 c 4 10.0
+Individual mark m
